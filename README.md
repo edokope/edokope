@@ -8,11 +8,11 @@ Prototipador, Programador Python, PHP, Java, ReactJS y Administrador de Sistemas
 Aficionado al estudio de las Artes Marciales Japonesas. <br />
  <br /> <br />
 
-- 👋 Hi, I’m @edokope
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @edokope, yes, that's me
+- 👀 I’m interested in ... bjj women
+- 🌱 I’m currently learning ... reactJS
+- 💞️ I’m looking to collaborate on ... all the people, world peace
+- 📫 How to reach me ... @edokope Telegram
 
 <!---
 edokope/edokope is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
